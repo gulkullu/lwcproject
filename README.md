@@ -1,0 +1,2 @@
+# lwcproject
+parent-child example
